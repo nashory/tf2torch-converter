@@ -20,5 +20,4 @@ Model converter from TensorFlow to Torch 7
 
 ## Author
 MinchulShin, [@nashory](https://github.com/nashory)  
-__Will keep updating other types of GANs.__  
 __Any insane bug reports or questions are welcome. (min.stellastra[at]gmail.com)  :-)__
